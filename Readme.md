@@ -18,14 +18,14 @@
 ### Project
   - **User Testing & Beta Testing**, _Mozilla_, Jakarta ID
 
+### Portofolio
+####  [List all my portofolio](portofolio.md)
+
 # Education
 ### Formal
 
   - **Bachelor of Engineering** _(GPA 3.53 of 4.00)_
     - Major of Computer Science, _Gunadarma University_, Depok ID 
-
-  - **Bachelor of Engineering(Computer Science)**
-    - GPA 3.53, _Gunadarma University_, Depok ID 
 
 ### Non-formal
   - **High Intermediate**, 

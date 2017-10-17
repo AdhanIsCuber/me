@@ -50,7 +50,7 @@
 - JSON
 - Open Source
 
-### Not important but i love it ❤
+### Not important but i love it 🖤 ♥
 - Rubiks - ![Rubik](/assets/rubik.png)
 - DIY Craft - ![DIY](/assets/light-bulb.png)
 - Watching Horror and Thriler Movies - ![Movies](/assets/skull.png)
