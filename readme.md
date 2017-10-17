@@ -3,8 +3,8 @@
 Wirya Ramadhan
 ├─ Profile
 │   ├─ Nama : Wirya Ramadhan
-│   ├─ 
-│   ├─
+│   ├─ 📧 
+│   ├─ 🌐
 │   └─
 └─ Skill
    ├─ Frontend Development
@@ -44,6 +44,7 @@ Wirya Ramadhan
    │  ├─ User Interface & User Experience
    │  ├─ Algorithm Knowledge
    │  ├─ Dataflow Diagram & UML
+   │  ├─ Modern Web App
    │  ├─ Web API
    │  ├─ WebVR & A-Frame
 	│  ├─ JSON
@@ -55,8 +56,3 @@ Wirya Ramadhan
       ├─ DIY Craft
       ├─ Watching Horror and Thriller Movies
       └─ Read encyclopedia
-
-├─
-│
-└─
-─
