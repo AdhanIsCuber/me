@@ -19,8 +19,13 @@
 
 # Education
 ### Formal
+<<<<<<< HEAD
   - **Bachelor of Engineering** _(GPA 3.53 of 4.00)_
     - Major of Computer Science, _Gunadarma University_, Depok ID 
+=======
+  - **Bachelor of Engineering(Computer Science)**
+    - GPA 3.53, _Gunadarma University_, Depok ID 
+>>>>>>> 2df8606adf4f12619284f05df00f8764e4da9ac0
 ### Non-formal
   - **High Intermediate**, 
     - _LBPP LIA Mercu Buana_, Jakarta ID 
@@ -42,4 +47,9 @@
   - **ConnectOn Team** 
     - Project Leader
   - **CT Project Team** 
+<<<<<<< HEAD
     - Co-Leader
+=======
+  
+    Co-Leader
+>>>>>>> 2df8606adf4f12619284f05df00f8764e4da9ac0
