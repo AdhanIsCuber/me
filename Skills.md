@@ -1,12 +1,30 @@
 [< Back to Home](Readme.md)
 
-## Skills
+## Skills & Knowledges
 ### Frontend Development
 - HTML5
--
--
--
--
+- CSS3
+- Bootstrap CSS (Sometime using Pure CSS or Materialize CSS)
+- SASS CSS Preprocessor
+- JavaScript (ES5 and ES6 <-- still learning)
+- Webpack
+- ReactJS
+- React-Native (for Mobile Development Android & iOS)
+
+### Backend Development
+- NodeJS
+- ExpressJS
+- REST API
+- Authentication
+   - JWT (JSON Web Token)
+- GraphQL <-- Still learning
+- MVC Pattern  
+
+### Database Management
+- MySQL
+- MongoDB
+- Airtable
+
 
 **Or you can see in Tree mode** 
 ```
@@ -35,7 +53,7 @@ Wirya Ramadhan
    │  ├─ Authentication
    │  │  └─ JWT (JSON Web Token) 
    │  ├─ GraphQL
-   │  └─ MVC
+   │  └─ MVC Pattern
    │ 
    ├─ Database Management
    │  ├─ MySQL
@@ -57,9 +75,13 @@ Wirya Ramadhan
    │  ├─ User Interface & User Experience
    │  ├─ Algorithm Knowledge
    │  ├─ Dataflow Diagram & UML
+   │  ├─ Object Oriented Programming
+   │  ├─ Functional Programming
    │  ├─ Modern Web App
+   │  ├─ Flexbox
    │  ├─ Web API
    │  ├─ WebVR & A-Frame
+   │  ├─ Kanban   
    │  ├─ JSON
    │  └─ Open Source
    │ 
