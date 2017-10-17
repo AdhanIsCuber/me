@@ -2,11 +2,12 @@
 ```
 Wirya Ramadhan
 ├─ Profile
-│   ├─ Nama : Wirya Ramadhan
-│   ├─ 📧 
-│   ├─ 🌐
-│   └─ 📬📪📫
-└─ Skill
+│   ├─ 🚹 : Wirya Ramadhan
+│   ├─ 📧 : adhaniscuber@gmail.com
+│   ├─ 🌐 : adhaniscuber.id
+│   └─ ⌂ : DKI Jakarta
+│
+└─ Skills
    ├─ Frontend Development
    │  ├─ HTML5
    │  ├─ CSS3
@@ -49,8 +50,7 @@ Wirya Ramadhan
    │  ├─ Web API
    │  ├─ WebVR & A-Frame
    │  ├─ JSON
-   │  ├─ Open Source
-   │  ├─ Airtable
+   │  └─ Open Source
    │ 
    └─ Not important but i love it
       ├─ Rubiks
