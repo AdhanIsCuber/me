@@ -5,7 +5,7 @@ Wirya Ramadhan
 │   ├─ Nama : Wirya Ramadhan
 │   ├─ 📧 
 │   ├─ 🌐
-│   └─
+│   └─ 📬📪📫
 └─ Skill
    ├─ Frontend Development
    │  ├─ HTML5
@@ -37,6 +37,7 @@ Wirya Ramadhan
    │  ├─ Gravit Designer
    │  ├─ VCS Git & GitHub
    │  ├─ Airtable
+   │  ├─ Markdown
    │  └─ Trello
    │   
    ├─ Ability & Knowledge
@@ -47,7 +48,7 @@ Wirya Ramadhan
    │  ├─ Modern Web App
    │  ├─ Web API
    │  ├─ WebVR & A-Frame
-	│  ├─ JSON
+   │  ├─ JSON
    │  ├─ Open Source
    │  ├─ Airtable
    │ 
