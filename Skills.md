@@ -50,11 +50,11 @@
 - JSON
 - Open Source
 
-### Not important but i love it 💖
-- Rubiks
-- DIY Craft
-- Watching Horror and Thriller Movies
-- Read encyclopedia
+### Not important but i love it ❤
+- Rubiks - ![Rubik](/assets/rubik.png)
+- DIY Craft - ![DIY](/assets/light-bulb.png)
+- Watching Horror and Thriler Movies - ![Movies](/assets/skull.png)
+- Read encyclopedia - ![book](/assets/book.png)
 
 **Or you can see in Tree mode** 
 ```
