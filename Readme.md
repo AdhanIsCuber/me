@@ -11,7 +11,8 @@
 
 # Education
 ### Formal
-  - **Bachelor of Engineering(Computer Science)**, GPA 3.53, _Gunadarma University_, Depok ID 
+  - **Bachelor of Engineering(Computer Science)**
+    - GPA 3.53, _Gunadarma University_, Depok ID 
 ### Non-formal
   - **High Intermediate**(English Course), _LBPP LIA_, Jakarta ID 
 # Skill
