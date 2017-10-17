@@ -15,16 +15,18 @@
 ### Non-formal
   - **High Intermediate**(English Course), _LBPP LIA_, Jakarta ID 
 # Skill
+#### [Check my Skills at this Link](Skills.md)
 # Ability & Knowledge
 # Award & Certificate
+  - Developer Masterclass
+    - Facebook Developer Circle
+  - Scholarship of Academic Achivement
+    - Yayasan Beasiswa Jakarta
 # Organization
 
   - **Mozilla Indonesia** 
-  
-    Ast, Space Manager & Keyholder
+    - Ast, Space Manager & Keyholder
   - **ConnectOn Team** 
-  
-    Project Leader
+    - Project Leader
   - **CT Project Team** 
-  
-    Co-Leader
+    - Co-Leader
