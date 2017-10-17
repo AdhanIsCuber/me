@@ -25,6 +25,36 @@
 - MongoDB
 - Airtable
 
+### Other Tools
+- Visual Studio Code   
+- Debian & Ubuntu
+- Terminal
+- Gravit Designer
+- VCS Git & GitHub
+- Airtable
+- Markdown
+- Trello
+
+### Ability & Knowledge
+- Familiar with Linux & Terminal
+- User Interface & User Experience
+- Algorithm Knowledge
+- Dataflow Diagram & UML
+- Object Oriented Programming
+- Functional Programming
+- Modern Web App
+- Flexbox
+- Web API
+- WebVR & A-Frame
+- Kanban   
+- JSON
+- Open Source
+
+### Not important but i love it 💖
+- Rubiks
+- DIY Craft
+- Watching Horror and Thriller Movies
+- Read encyclopedia
 
 **Or you can see in Tree mode** 
 ```
