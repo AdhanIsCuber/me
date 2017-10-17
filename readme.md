@@ -43,7 +43,7 @@ Wirya Ramadhan
    │  ├─ Familiar with Linux & Terminal
    │  ├─ User Interface & User Experience
    │  ├─ Algorithm Knowledge
-	│  ├─ Dataflow Diagram & UML
+   │  ├─ Dataflow Diagram & UML
    │  ├─ Web API
    │  ├─ WebVR & A-Frame
 	│  ├─ JSON
