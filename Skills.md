@@ -1,4 +1,4 @@
-[Check my Skill & Technology Stack what i use](Home.md)
+[< Back to Home](Readme.md)
 ```
 Wirya Ramadhan
 ├─ Profile
@@ -33,6 +33,7 @@ Wirya Ramadhan
    │  └─ Airtable
    │
    ├─ Other Tools
+   │  ├─ Visual Studio Code   
    │  ├─ Debian & Ubuntu
    │  ├─ Terminal
    │  ├─ Gravit Designer
