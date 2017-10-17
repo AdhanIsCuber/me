@@ -2,10 +2,10 @@
 ```
 Wirya Ramadhan
 ├─ Profile
-│   ├─ 🚹 : Wirya Ramadhan
+│   ├─ 😄 : Wirya Ramadhan
 │   ├─ 📧 : adhaniscuber@gmail.com
 │   ├─ 🌐 : adhaniscuber.id
-│   └─ ⌂ : DKI Jakarta
+│   └─ 🏠 : DKI Jakarta
 │
 └─ Skills
    ├─ Frontend Development
