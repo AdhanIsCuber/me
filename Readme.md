@@ -9,6 +9,7 @@
   - Instagram : [@wradhan](https://www.instagram.com/wradhan/)
   - Facebook : [Wirya Ramadhan](https://www.facebook.com/AdhanIsCuber)
   - GitHub : [AdhanisCuber](https://github.com/AdhanIsCuber)
+  - LinkedIn : [Wirya Ramadhan](https://www.linkedin.com/in/wiryaramadhan/)
   - Line : AdhanIsCuber
 
 # Experience
@@ -19,13 +20,13 @@
 
 # Education
 ### Formal
-<<<<<<< HEAD
+
   - **Bachelor of Engineering** _(GPA 3.53 of 4.00)_
     - Major of Computer Science, _Gunadarma University_, Depok ID 
-=======
+
   - **Bachelor of Engineering(Computer Science)**
     - GPA 3.53, _Gunadarma University_, Depok ID 
->>>>>>> 2df8606adf4f12619284f05df00f8764e4da9ac0
+
 ### Non-formal
   - **High Intermediate**, 
     - _LBPP LIA Mercu Buana_, Jakarta ID 
@@ -39,7 +40,7 @@
   - Scholarship of Academic Achivement
     - Yayasan Beasiswa Jakarta
 
-[List All my Certificate, Course and Workshop]()
+[List All my Certificate, Course and Workshop](Listall.md)
 # Organization
 
   - **Mozilla Indonesia** 
@@ -47,9 +48,5 @@
   - **ConnectOn Team** 
     - Project Leader
   - **CT Project Team** 
-<<<<<<< HEAD
     - Co-Leader
-=======
-  
-    Co-Leader
->>>>>>> 2df8606adf4f12619284f05df00f8764e4da9ac0
+
