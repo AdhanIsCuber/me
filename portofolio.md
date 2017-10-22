@@ -1,5 +1,5 @@
 # Project and Portofolio
-1. [ConnectOn Team](connecton.hol.es)
+1. [ConnectOn Team](connecton.hol.es) - Repo : [ConnectOn-WEBv3](https://github.com/AdhanIsCuber/ConnectOn-WEBv3)
 ![ConnectOn Team](/assets/p01.png)
 > Merupakan website team ConnectOn
 
